@@ -36,7 +36,7 @@ print(f'测试集大小: {len(testset)}')
 
 # 定义模型
 class MLP(nn.Module):
-    def __init__(self, input_size=784, hidden_size=128, num_classes=10):
+    def __init__(self, input_size=784, hidden_size=256, num_classes=10):
         super(MLP, self).__init__()
         self.fc1 = nn.Linear(input_size, hidden_size)
         self.relu = nn.ReLU()

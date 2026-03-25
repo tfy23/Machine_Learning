@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8c7b63-116e-4ca4-98d6-dc94c6f9b5d3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/week1_mlp/mlp_mnist.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_mlp/mlp_mnist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_mlp/mlp_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1_mlp/mlp_mnist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week1_mlp/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/week1_mlp/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774357143859</updated>
       <workItem from="1774357145147" duration="1437000" />
-      <workItem from="1774402512832" duration="3982000" />
+      <workItem from="1774402512832" duration="4605000" />
     </task>
     <servers />
   </component>
@@ -74,6 +73,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ml_learning$mlp_mnist.coverage" NAME="mlp_mnist 覆盖结果" MODIFIED="1774404308334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1_mlp" />
+    <SUITE FILE_PATH="coverage/ml_learning$mlp_mnist.coverage" NAME="mlp_mnist 覆盖结果" MODIFIED="1774407471329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1_mlp" />
   </component>
 </project>
