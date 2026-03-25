@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8c7b63-116e-4ca4-98d6-dc94c6f9b5d3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/week1_mlp/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_mlp/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_mlp/linear_regression_numpy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_mlp/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/week1_mlp/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "正在合并 master",
     "last_opened_file_path": "C:/Users/T/Desktop/ml_learning",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.documentation.PythonDocumentationConfigurable",
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774357143859</updated>
       <workItem from="1774357145147" duration="1437000" />
-      <workItem from="1774402512832" duration="5318000" />
+      <workItem from="1774402512832" duration="6289000" />
     </task>
     <servers />
   </component>
@@ -77,6 +74,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ml_learning$linear_regression_numpy.coverage" NAME="linear_regression_numpy 覆盖结果" MODIFIED="1774408014806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1_mlp" />
-    <SUITE FILE_PATH="coverage/ml_learning$mlp_mnist.coverage" NAME="mlp_mnist 覆盖结果" MODIFIED="1774407471329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1_mlp" />
+    <SUITE FILE_PATH="coverage/ml_learning$mlp_mnist.coverage" NAME="mlp_mnist 覆盖结果" MODIFIED="1774408509223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1_mlp" />
   </component>
 </project>
